@@ -3,7 +3,7 @@ const items = [
     id: 0,
     title: "Netflix",
     category: "ReactJs",
-    img: "/../public/img/Netflix.png",
+    img: "/img/Netflix.png",
     techStack: ["ReactJs", "Tailwind CSS", "Firebase"],
     desc: [
       "SignUp/Login feature",
@@ -18,7 +18,7 @@ const items = [
     id: 1,
     title: "Whatsapp-Clone",
     category: "ReactJs",
-    img: "/../public/img/whatsapp.png",
+    img: "/img/whatsapp.png",
     techStack: ["ReactJs", "CSS", "Firebase"],
     desc: [
       "SignUp/Login feature",
@@ -33,7 +33,7 @@ const items = [
     id: 2,
     title: "Portfolio site",
     category: "NextJs",
-    img: "/../public/img/Portfolio.png",
+    img: "/img/Portfolio.png",
     techStack: ["ReactJs", "NextJs", "Tailwind CSS", "Firebase"],
     desc: [
       "Made custom local API ",
@@ -48,7 +48,7 @@ const items = [
     id: 3,
     title: "Food Delivery App",
     category: "ReactNative",
-    img: "/../public/img/FoodDelivery.png",
+    img: "/img/FoodDelivery.png",
     techStack: ["React Native", "CSS", "Firebase"],
     desc: [
       "All Data is fetched from details from Random API",
