@@ -50,8 +50,8 @@ function Navbar() {
             <li>
               <a
                 className="bg-gradient-to-b from-cyan-700 to-cyan-400 text-white px-3 py-1 rounded-md ml-8 "
-                href="/resume/Anubhaw_Resume_FDE.pdf"
-                download="Anubhaw_Resume_FDE.pdf"
+                href="/resume/Anubhaw_Resume.pdf"
+                download="Anubhaw_Resume.pdf"
               >
                 Resume
               </a>
