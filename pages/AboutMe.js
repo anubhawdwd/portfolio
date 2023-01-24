@@ -1,8 +1,6 @@
 import React from "react";
 import Image from "next/image";
 import anubhaw from "../public/img/anubhaw-blue.png";
-// import anubhaw_2 from "../public/img/anubhaw-pink.png";
-import anubhaw_1 from "../public/img/anubhaw.jpeg";
 import anubhaw_sign_yellow from "../public/signature/anubhaw_sign_yellow.png";
 import anubhaw_sign_black from "../public/signature/anubhaw_sign_black.png";
 import {
@@ -21,11 +19,7 @@ function AboutMe() {
       <div className=" text-center dark:text-white ">
         <div className="h-20"></div>
         <div className="rounded-[50%] w-48 h-48 mt-2 mx-auto overflow-hidden">
-          {darkMode ? (
-            <Image src={anubhaw} alt="Anubhaw Dwivedi" />
-          ) : (
-            <Image src={anubhaw_1} alt="Anubhaw Dwivedi" />
-          )}
+          <Image src={anubhaw} alt="Anubhaw Dwivedi" />
         </div>
 
         <h1 className="absolute text-5xl py-2 font-medium md:text-6xl z-[-10] ">
