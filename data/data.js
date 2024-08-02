@@ -11,7 +11,7 @@ const items = [
       "Save your Favourite movies to My List",
       "Watch Videos",
     ],
-    github: "https://github.com/anubhawdwd/Netflix-Clone",
+    github: "https://reactapp-movie-trailer.netlify.app/",
     weblink: "https://reactjs-netflix-clone-13.netlify.app",
   },
   {
@@ -27,7 +27,7 @@ const items = [
       "Send Images",
     ],
     github: "https://github.com/anubhawdwd/react-whatsapp-clone",
-    weblink: "https://reactjs-whatsapp-clone.netlify.app/login",
+    weblink: "https://react-mychatapp.netlify.app/",
   },
   {
     id: 2,
