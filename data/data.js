@@ -60,6 +60,20 @@ const items = [
 
     weblink: "https://www.youtube.com/shorts/OYA5xpjNZvQ",
   },
+  {
+    id: 4,
+    title: "Calculator",
+    category: "JavaScript",
+    img: "/img/Calculator.png",
+    techStack: ["HTML", "CSS", "JavaScript"],
+    desc: [
+      "Simple Calculator functionality Implementation in javascript",
+      "Has Clear All and Delete button ",
+    ],
+    github: "https://github.com/anubhawdwd/JS-Calculator",
+
+    weblink: "https://js-calculatorsimple.netlify.app/",
+  },
 ];
 
 const skills_list = [
@@ -93,7 +107,7 @@ const skills_list = [
   },
   {
     id: 7,
-    name: "Firebase",
+    name: "SEO",
   },
 ];
 export { items, skills_list };

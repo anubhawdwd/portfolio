@@ -64,15 +64,15 @@ function AboutMe() {
         />
         <div>
           <a
-            class=" block w-0 bg-white group"
+            className=" block w-0 bg-white group"
             href="mailto:anubhawdwivedi@gmail.com?subject=Lets_Talk_about_New_Carrier_Opportunity&body=Hello!"
           >
             <CgMail className="text-red-500 text-5xl" />
-            <div class="relative px-10">
-              <div class="-mt-16">
-                <div class="transition-all transform translate-y-8 opacity-0 group-hover:opacity-100 group-hover:translate-y-0">
-                  <div class="p-2">
-                    <p class="text-xs text-black dark:text-white">
+            <div className="relative px-10">
+              <div className="-mt-16">
+                <div className="transition-all transform translate-y-8 opacity-0 group-hover:opacity-100 group-hover:translate-y-0">
+                  <div className="p-2">
+                    <p className="text-xs text-black dark:text-white">
                       Requires Default Mailing App
                     </p>
                   </div>
